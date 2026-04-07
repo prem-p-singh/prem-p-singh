@@ -75,23 +75,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/prem-p-singh">
-  <img src="https://github-readme-stats-prem-p-singhs-projects.vercel.app/api?username=prem-p-singh&theme=vue&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
-</a>
-<a href="https://github.com/prem-p-singh">
-  <img src="https://github-readme-stats-prem-p-singhs-projects.vercel.app/api/top-langs/?username=prem-p-singh&theme=vue&hide_border=true&layout=compact" height="180" />
-</a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=prem-p-singh&theme=vue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 <div align="center">
 
 🌱 *From a farming family in India to multi-omics research at UC Davis — passionate about science that serves agriculture.*
