@@ -5,8 +5,8 @@
 
 **Postdoctoral Scholar @ UC Davis · Dept. of Viticulture & Enology**
 
-*Turning multi-omics research into deployable tools for crop health.*<br>
-*I study grapevine red blotch virus using transcriptomics, metabolomics & digital PCR — bridging discovery science and field-ready diagnostics.*
+*I study grapevine red blotch virus using transcriptomics, metabolomics, and digital PCR.*<br>
+*Most of my work sits at the boundary between multi-omics discovery and diagnostic tools that actually work in the field.*
 
 [![Website](https://img.shields.io/badge/🌐_Website-prempsingh.com-2E9B45?style=for-the-badge)](https://prempsingh.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prempratapsingh31)
@@ -19,13 +19,13 @@
 
 ### 🔬 What I Work On
 
-🍇 **Grapevine–Virus Interactions** — co-transcriptomics and metabolomics of GRBV-infected vines across seasons and cultivars
+🍇 **Grapevine–Virus Interactions** · Co-transcriptomics and metabolomics of GRBV-infected vines across seasons and cultivars
 
-🧬 **Molecular Diagnostics** — RT-qPCR and digital PCR assay development for plant pathogens
+🧬 **Molecular Diagnostics** · RT-qPCR and digital PCR assay development for plant pathogens
 
-📊 **Multi-Omics Data Analysis** — RNA-seq pipelines, differential expression (DESeq2), GC-MS / LC-MS/MS metabolite profiling
+📊 **Multi-Omics Data Analysis** · RNA-seq pipelines, differential expression (DESeq2), GC-MS / LC-MS/MS metabolite profiling
 
-🛠️ **Computational Tools** — building R and Python workflows that make complex analyses accessible to everyone
+🛠️ **Computational Tools** · R and Python workflows for multi-omics analysis
 
 ---
 
@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/36_Graph_Types-R_Visualization_Skill-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   </a>
 </p>
-<p align="center"><em>A comprehensive R visualization skill for non-R users — built as an AI-agent-compatible skill with 9 modular files and a full user guide.</em></p>
+<p align="center"><em>36-graph-type R visualization skill for non-R users. 9 modular files, works with AI coding agents.</em></p>
 
 </td>
 </tr>
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-🌱 *From a farming family in India to multi-omics research at UC Davis — passionate about science that serves agriculture.*
+🌱 *Grew up on a farm in India. Still trying to make science useful for agriculture.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=prem-p-singh&color=2E9B45&style=flat-square&label=Profile+Views)](https://github.com/prem-p-singh)
 
