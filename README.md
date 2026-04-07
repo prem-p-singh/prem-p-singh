@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9B45&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Prem+Pratap+Singh%2C+Ph.D.;Multi-Omics+%7C+Plant+Diagnostics+%7C+Crop+Health)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9B45&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+I'm+Prem+Pratap+Singh%2C+Ph.D.;Multi-Omics+%7C+Plant+Diagnostics+%7C+Crop+Health)](https://git.io/typing-svg)
 
 **Postdoctoral Scholar @ UC Davis · Dept. of Viticulture & Enology**
 
