@@ -11,7 +11,7 @@
 [![Website](https://img.shields.io/badge/🌐_Website-prempsingh.com-2E9B45?style=for-the-badge)](https://prempsingh.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-p-singh/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.co.in/citations?hl=en&user=UGFMZEYAAAAJ)
-[![Email](https://img.shields.io/badge/Email-ppssingh@ucdavis.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pr0982@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Prem-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pr0982@gmail.com)
 
 </div>
 
