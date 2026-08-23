@@ -115,7 +115,7 @@ I study crop disease from the first field observation to the final model, combin
 <tr>
 <td width="33%" valign="top">
 <h3 align="center">🧬 GRBV Transcriptomics</h3>
-<p align="center"><a href="https://github.com/prem-p-singh/GRBV-Transcriptomics-Analysis"><img src="https://img.shields.io/badge/327_samples-2_seasons-285F47?style=for-the-badge" alt="327 samples across two seasons" /></a></p>
+<p align="center"><a href="https://github.com/prem-p-singh/GRBV-Transcriptomics-Analysis"><img src="https://img.shields.io/badge/327_samples-2_seasons-285F47?style=for-the-badge" alt="300+ samples across two seasons" /></a></p>
 <p>An RNA-seq workflow for studying Grapevine Red Blotch Virus across vineyard samples, seasons, and maturity stages.</p>
 <p align="center"><a href="https://github.com/prem-p-singh/GRBV-Transcriptomics-Analysis"><strong>Explore the analysis →</strong></a></p>
 </td>
