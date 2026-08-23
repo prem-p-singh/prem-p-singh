@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- A little motion, because research should not feel static. -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1100&color=285F47&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=110&lines=Hi+%F0%9F%91%8B+I%27m+Prem+Pratap+Singh%2C+Ph.D.;Plant+Scientist+%C3%97+Data+Scientist+%7C+Field+%E2%86%92+Model+%E2%86%92+Crop+Decision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1100&color=285F47&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=150&lines=Hi+%F0%9F%91%8B+I%E2%80%99m+Prem+%E2%80%94+Plant+Scientist+%C3%97+Data+Scientist;Field+samples+%E2%86%92+molecular+signals+%E2%86%92+crop+decisions;Modeling+%7C+RNA-seq+%7C+Multi-omics+%7C+Machine+Learning)](https://git.io/typing-svg)
 
 **Postdoctoral Scholar · Viticulture & Enology · UC Davis**
 
@@ -59,22 +59,50 @@ I study crop disease from the first field observation to the final model—combi
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4>🔬 Measure</h4>
-<p>RT-qPCR · Digital PCR · RNA-seq · GC-MS · LC-MS/MS</p>
+<h4 align="center">🔬 Measure</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/RT--qPCR-285F47?style=for-the-badge" alt="RT-qPCR" />
+<img src="https://img.shields.io/badge/Digital_PCR-397C68?style=for-the-badge" alt="Digital PCR" />
+<img src="https://img.shields.io/badge/RNA--seq-46567D?style=for-the-badge" alt="RNA-seq" />
+<img src="https://img.shields.io/badge/GC--MS-7A5B16?style=for-the-badge" alt="GC-MS" />
+<img src="https://img.shields.io/badge/LC--MS%2FMS-9C482D?style=for-the-badge" alt="LC-MS/MS" />
+</p>
 </td>
 <td width="50%" valign="top">
-<h4>📊 Analyze</h4>
-<p>R · Python · Bioconductor · DESeq2 · scikit-learn · Bayesian modeling · Causal mediation</p>
+<h4 align="center">📊 Analyze</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Bioconductor-1683A8?style=for-the-badge" alt="Bioconductor" />
+<img src="https://img.shields.io/badge/DESeq2-1F6F43?style=for-the-badge" alt="DESeq2" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Bayesian_Modeling-46567D?style=for-the-badge" alt="Bayesian modeling" />
+<img src="https://img.shields.io/badge/Causal_Mediation-9C482D?style=for-the-badge" alt="Causal mediation" />
+</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4>⚙️ Reproduce</h4>
-<p>Snakemake · Bash · SLURM · Linux/HPC · Git · Conda · Containers</p>
+<h4 align="center">⚙️ Reproduce</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Snakemake-039475?style=for-the-badge&amp;logo=snakemake&amp;logoColor=white" alt="Snakemake" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/SLURM-9C482D?style=for-the-badge" alt="SLURM" />
+<img src="https://img.shields.io/badge/Linux%2FHPC-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux and HPC" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&amp;logo=anaconda&amp;logoColor=white" alt="Conda" />
+<img src="https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Containers" />
+</p>
 </td>
 <td width="50%" valign="top">
-<h4>✦ Communicate</h4>
-<p>ggplot2 · Plotly · MDX · Technical writing · Research visualization</p>
+<h4 align="center">✦ Communicate</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/ggplot2-E76F51?style=for-the-badge" alt="ggplot2" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="Plotly" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown" />
+<img src="https://img.shields.io/badge/Technical_Writing-7A5B16?style=for-the-badge" alt="Technical writing" />
+<img src="https://img.shields.io/badge/Research_Visualization-285F47?style=for-the-badge" alt="Research visualization" />
+</p>
 </td>
 </tr>
 </table>
