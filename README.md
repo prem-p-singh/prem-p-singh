@@ -148,7 +148,7 @@ I study crop disease from the first field observation to the final model—combi
 
 🌾 *Grew up on a farm in India. Still trying to make science useful for agriculture.*
 
-**Field → bench → data → evidence → crop decision**
+**🌿 Field &nbsp;➜&nbsp; 🔬 Bench &nbsp;➜&nbsp; 💻 Data &nbsp;➜&nbsp; 📊 Evidence &nbsp;➜&nbsp; 🎯 Crop decision**
 
 [![Profile views](https://komarev.com/ghpvc/?username=prem-p-singh&color=285F47&style=flat-square&label=Profile+views)](https://github.com/prem-p-singh)
 
