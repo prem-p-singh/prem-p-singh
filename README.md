@@ -5,7 +5,7 @@
 
 **Postdoctoral Scholar @ Viticulture & Enology @ UC Davis**
 
-I study crop disease from the first field observation to the final model—combining molecular diagnostics, multi-omics, and reproducible data science to find signals that can improve crop decisions.
+I study crop disease from the first field observation to the final model, combining molecular diagnostics, multi-omics, and reproducible data science to find signals that can improve crop decisions.
 
 [![Website](https://img.shields.io/badge/Explore-prempsingh.com-285F47?style=for-the-badge)](https://prempsingh.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-p-singh)
