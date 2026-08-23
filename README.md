@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- A little motion, because research should not feel static. -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3500&pause=1100&color=285F47&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=Hi+%F0%9F%91%8B+I%27m+Prem+Pratap+Singh%2C+Ph.D.;Plant+Scientist+%C3%97+Data+Scientist+%7C+Field+%E2%86%92+Model+%E2%86%92+Crop+Decision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1100&color=285F47&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=110&lines=Hi+%F0%9F%91%8B+I%27m+Prem+Pratap+Singh%2C+Ph.D.;Plant+Scientist+%C3%97+Data+Scientist+%7C+Field+%E2%86%92+Model+%E2%86%92+Crop+Decision)](https://git.io/typing-svg)
 
 **Postdoctoral Scholar · Viticulture & Enology · UC Davis**
 
@@ -22,10 +22,13 @@ I study crop disease from the first field observation to the final model—combi
 
 <p align="center"><strong>🍇 FIELD &nbsp;→&nbsp; 🧬 MEASURE &nbsp;→&nbsp; 💻 MODEL &nbsp;→&nbsp; 🌱 DECIDE</strong></p>
 
-- **Crop scientist:** I begin with the plant, the field pattern, and the biological question.
-- **Molecular scientist:** I measure the signal with RT-qPCR, digital PCR, RNA-seq, and metabolomics.
-- **Data scientist:** I build reproducible pipelines, integrate evidence, test models, and communicate uncertainty.
-- **Translator:** I turn results into diagnostic markers, biological mechanisms, and crop-improvement questions.
+🌿 **Crop scientist:** I begin with the plant, the field pattern, and the biological question.
+
+🧬 **Molecular scientist:** I measure the signal with RT-qPCR, digital PCR, RNA-seq, and metabolomics.
+
+📊 **Data scientist:** I build reproducible pipelines, integrate evidence, test models, and communicate uncertainty.
+
+🎯 **Translator:** I turn results into diagnostic markers, biological mechanisms, and crop-improvement questions.
 
 <div align="center">
 
@@ -53,13 +56,28 @@ I study crop disease from the first field observation to the final model—combi
 
 ### ⚡ Toolbox
 
-**Measure** · `RT-qPCR` `Digital PCR` `RNA-seq` `GC-MS` `LC-MS/MS`
-
-**Analyze** · `R` `Python` `Bioconductor` `DESeq2` `scikit-learn` `Bayesian modeling` `Causal mediation`
-
-**Reproduce** · `Snakemake` `Bash` `SLURM` `Linux/HPC` `Git` `Conda` `Containers`
-
-**Communicate** · `ggplot2` `Plotly` `MDX` `Technical writing` `Research visualization`
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>🔬 Measure</h4>
+<p>RT-qPCR · Digital PCR · RNA-seq · GC-MS · LC-MS/MS</p>
+</td>
+<td width="50%" valign="top">
+<h4>📊 Analyze</h4>
+<p>R · Python · Bioconductor · DESeq2 · scikit-learn · Bayesian modeling · Causal mediation</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>⚙️ Reproduce</h4>
+<p>Snakemake · Bash · SLURM · Linux/HPC · Git · Conda · Containers</p>
+</td>
+<td width="50%" valign="top">
+<h4>✦ Communicate</h4>
+<p>ggplot2 · Plotly · MDX · Technical writing · Research visualization</p>
+</td>
+</tr>
+</table>
 
 ---
 
