@@ -3,7 +3,7 @@
 <!-- A little motion, because research should not feel static. -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1200&pause=600&color=285F47&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=110&lines=Hi+%F0%9F%91%8B+I%E2%80%99m+Prem+%E2%80%94+Plant+Scientist+%C3%97+Data+Scientist;Field+samples+%E2%86%92+molecular+signals+%E2%86%92+crop+decisions;Modeling+%7C+RNA-seq+%7C+Multi-omics+%7C+Machine+Learning)](https://git.io/typing-svg)
 
-**Postdoctoral Scholar @ Viticulture & Enology @ UC Davis**
+**Postdoctoral Scholar @ Plan Pathology @ UC Davis**
 
 I study crop disease from the first field observation to the final model, combining molecular diagnostics, multi-omics, and reproducible data science to find signals that can improve crop decisions.
 
