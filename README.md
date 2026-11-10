@@ -113,17 +113,18 @@ I study crop disease from the first field observation to the final model, combin
 
 <h4 align="center">🆕 Latest build</h4>
 
-<p align="center"><a href="https://github.com/prem-p-singh/RNASeq-pipeline"><img src="https://raw.githubusercontent.com/prem-p-singh/RNASeq-pipeline/v2.1.1/assets/readme-banner.svg" alt="RNASeq pipeline v2: raw reads to traceable bulk RNA-seq results" width="100%" /></a></p>
+<p align="center"><a href="https://github.com/prem-p-singh/RNASeq-pipeline"><img src="https://raw.githubusercontent.com/prem-p-singh/RNASeq-pipeline/v3.0.0/assets/readme-banner.svg" alt="RNASeq pipeline v3.0.0: raw reads to traceable RNA-seq results" width="100%" /></a></p>
 
-<h3 align="center">⚙️ RNASeq pipeline · v2.1.1</h3>
+<h3 align="center">⚙️ RNASeq pipeline · v3.0.0</h3>
 
 <p align="center">
 <a href="https://github.com/prem-p-singh/RNASeq-pipeline"><img src="https://img.shields.io/badge/Snakemake-Salmon_%7C_STAR-039475?style=for-the-badge" alt="Snakemake with Salmon or STAR" /></a>
 <a href="https://github.com/prem-p-singh/RNASeq-pipeline"><img src="https://img.shields.io/badge/limma--voom_%7C_edgeR_%7C_DESeq2-46567D?style=for-the-badge" alt="limma-voom, edgeR and DESeq2" /></a>
 <a href="https://github.com/prem-p-singh/RNASeq-pipeline"><img src="https://img.shields.io/badge/Excel_intake-SLURM_ready-9C482D?style=for-the-badge" alt="Excel intake, SLURM ready" /></a>
+<a href="https://github.com/prem-p-singh/RNASeq-pipeline"><img src="https://img.shields.io/badge/Small_RNA_%7C_QuantSeq_%7C_Host%2Bpathogen-5B6B2F?style=for-the-badge" alt="Small RNA, QuantSeq 3′ end-tag and host plus pathogen" /></a>
 </p>
 
-<p align="center">A bulk RNA-seq pipeline that takes raw FASTQs to QC reports, gene counts, and differential-expression results. The study design is checked for estimability before any compute runs, and every project keeps its own configuration, logs, and results.</p>
+<p align="center">An RNA-seq pipeline that takes raw FASTQs to QC reports, gene counts, and differential-expression results for bulk libraries, small RNA, Lexogen QuantSeq 3′ end-tag libraries, or a host and a pathogen sequenced together. Install it with apt on Linux. The study design is checked for estimability before any compute runs, and every project keeps its own configuration, logs, and results.</p>
 
 <p align="center"><a href="https://github.com/prem-p-singh/RNASeq-pipeline"><strong>Explore the pipeline →</strong></a></p>
 
